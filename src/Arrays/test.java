@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class test {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-
+        System.out.println("hej");
         int vektorEtt [] = new int[]{10, 20, 30, 40, 50, 60, 70, 80, 90, 100};
         int vektorTvå [] = new int[vektorEtt.length];
 
